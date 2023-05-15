@@ -1,0 +1,28 @@
+[
+    {
+        "nome": "Pedro",
+        "sobrenome": "Ferreira",
+        "empresa": "Ferreira Moda Têxtil",
+        "país": "Brasil",
+        "endereco": "Rua Venâncio Aires",
+        "numero": "1023",
+        "cidade": "Canoas",
+        "estado": "Rio Grande do Sul",
+        "cep": "98562-315",
+        "telefone": "998742563",
+        "email": "pedrofferreira@artart.com"
+    },
+    {
+        "nome": "Gabriela",
+        "sobrenome": "Mocine",
+        "empresa": "Google",
+        "país": "Brasil",
+        "endereco": "Av. Paracatu",
+        "numero": "2598",
+        "cidade": "São Paulo",
+        "estado": "São Paulo",
+        "cep": "96254-874",
+        "telefone": "992453865",
+        "email": "gabrielamocine@art.com"
+    }
+]
